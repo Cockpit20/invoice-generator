@@ -1,0 +1,23 @@
+/* styles.css */
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+#invoice {
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin: 20px 0;
+}
